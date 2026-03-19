@@ -69,7 +69,7 @@ After updating papers (only if new papers exist):
 
 ## Cron Schedule
 
-Run daily at 08:00 local time (Asia/Shanghai).
+Run daily at 08:00 Moscow time (Europe/Moscow, GMT+3).
 
 ---
 
