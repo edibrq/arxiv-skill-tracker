@@ -4,7 +4,7 @@
 
 MESSAGE="$1"
 CHANNEL_NAME="papers-reports"
-BOT_TOKEN="x879ie7mktrwbfcw3qmhwx9j4w"
+BOT_TOKEN="58ydfrajafn5zc7hq7ceojejse"
 MM_URL="http://10.198.127.160:8065"
 
 # Get team ID (huawei team)
