@@ -12,6 +12,8 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2603.01145 | AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution | 2026-03-19 | Paper | - |
 | arXiv | 2601.03509 | Evolving Programmatic Skill Networks (PSN) | 2026-03-19 | Paper | - |
 | arXiv | 2603.02766 | EvoSkill: Automated Skill Discovery for Multi-Agent Systems | 2026-03-19 | Paper | - |
+| 36kr | 36kr-3728164375231362 | EvoSkill - Self-Evolving Agent Skills (Research Summary) | 2026-03-21 | Article | arXiv:2603.02766 |
+| 53ai | 53ai-2026022679682 | Agent Skill Framework for Small Language Models | 2026-03-21 | Article | Brown 2020, Li 2025a, Kaelbling 1998 |
 
 ---
 
