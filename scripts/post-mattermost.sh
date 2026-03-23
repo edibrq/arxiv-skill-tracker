@@ -1,14 +1,31 @@
 #!/bin/bash
 # Post message to Mattermost via bot API
 # Usage: ./post-mattermost.sh "message text"
+# Config: Reads from .env file (MATTERMOST_BOT_TOKEN, MATTERMOST_URL, etc.)
+
+set -e
+
+# Load environment variables
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
+ENV_FILE="$PROJECT_DIR/.env"
+
+if [ -f "$ENV_FILE" ]; then
+  export $(grep -v '^#' "$ENV_FILE" | xargs)
+fi
 
 MESSAGE="$1"
-CHANNEL_NAME="papers-reports"
-BOT_TOKEN="[REDACTED]"
-MM_URL="http://10.198.127.160:8065"
+CHANNEL_NAME="${MATTERMOST_CHANNEL:-papers-reports}"
+BOT_TOKEN="${MATTERMOST_BOT_TOKEN}"
+MM_URL="${MATTERMOST_URL:-http://10.198.127.160:8065}"
 
-# Get team ID (huawei team)
-TEAM_RESPONSE=$(curl -s -X GET "$MM_URL/api/v4/teams/name/huawei" \
+if [ -z "$BOT_TOKEN" ]; then
+  echo "Error: MATTERMOST_BOT_TOKEN not set in .env"
+  exit 1
+fi
+
+# Get team ID
+TEAM_RESPONSE=$(curl -s -X GET "$MM_URL/api/v4/teams/name/$MATTERMOST_TEAM" \
   -H "Authorization: Bearer $BOT_TOKEN")
 
 TEAM_ID=$(echo "$TEAM_RESPONSE" | grep -o '"id":"[^"]*"' | head -1 | cut -d'"' -f4)
