@@ -12,6 +12,7 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2603.01145 | AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution | 2026-03-19 | Paper | - |
 | arXiv | 2601.03509 | Evolving Programmatic Skill Networks (PSN) | 2026-03-19 | Paper | - |
 | arXiv | 2603.02766 | EvoSkill: Automated Skill Discovery for Multi-Agent Systems | 2026-03-19 | Paper | - |
+| arXiv | 2603.19461 | Hyperagents | 2026-03-24 | Paper | Darwin Gödel Machine (DGM) |
 
 ---
 
