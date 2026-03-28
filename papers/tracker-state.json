@@ -5,7 +5,7 @@
   "sourcesSearched": ["arXiv", "Semantic Scholar", "Medium", "Papers with Code"],
   "newPapers": [],
   "skippedAlreadyTracked": [],
-  "gitCommit": "pending",
-  "mattermostPosted": false,
+  "gitCommit": "36a075f",
+  "mattermostPosted": true,
   "notes": "No new papers published on 2026-03-28. API rate limits encountered on arXiv and Semantic Scholar. Medium blocked by Cloudflare."
 }
