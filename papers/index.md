@@ -14,6 +14,9 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2603.02766 | EvoSkill: Automated Skill Discovery for Multi-Agent Systems | 2026-03-19 | Paper | - |
 | arXiv | 2603.19461 | Hyperagents | 2026-03-24 | Paper | Darwin Gödel Machine (DGM) |
 | arXiv | 2603.24517 | AVO: Agentic Variation Operators for Autonomous Evolutionary Search | 2026-03-26 | Preprint | FunSearch, AlphaEvolve, FlashAttention-4, cuDNN |
+| arXiv | 2603.26266 | GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval | 2026-03-30 | Preprint | - |
+| arXiv | 2603.26499 | AIRA_2: Overcoming Bottlenecks in AI Research Agents | 2026-03-30 | Preprint | - |
+| arXiv | 2603.26512 | CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation | 2026-03-30 | Preprint | - |
 
 ---
 
