@@ -17,6 +17,11 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2603.26266 | GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval | 2026-03-30 | Preprint | - |
 | arXiv | 2603.26499 | AIRA_2: Overcoming Bottlenecks in AI Research Agents | 2026-03-30 | Preprint | - |
 | arXiv | 2603.26512 | CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation | 2026-03-30 | Preprint | - |
+| arXiv | 2603.28959 | Multi-Agent LLMs for Adaptive Acquisition in Bayesian Optimization | 2026-04-01 | Preprint | - |
+| arXiv | 2603.28986 | Mimosa Framework: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning | 2026-04-01 | Preprint | MCP, ScienceAgentBench |
+| arXiv | 2603.28990 | Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures | 2026-04-01 | Preprint | - |
+| arXiv | 2603.29010 | Improving Efficiency of GPU Kernel Optimization Agents using a Domain-Specific Language and Speed-of-Light Guidance | 2026-04-01 | Preprint | CUTLASS, KernelBench |
+| arXiv | 2603.29023 | Human-Like Lifelong Memory: A Neuroscience-Grounded Architecture for Infinite Interaction | 2026-04-01 | Preprint | Complementary learning systems, Beck's cognitive model |
 
 ---
 
