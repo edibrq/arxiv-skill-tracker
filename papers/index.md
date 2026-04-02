@@ -14,6 +14,21 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2603.02766 | EvoSkill: Automated Skill Discovery for Multi-Agent Systems | 2026-03-19 | Paper | - |
 | arXiv | 2603.19461 | Hyperagents | 2026-03-24 | Paper | Darwin Gödel Machine (DGM) |
 | arXiv | 2603.24517 | AVO: Agentic Variation Operators for Autonomous Evolutionary Search | 2026-03-26 | Preprint | FunSearch, AlphaEvolve, FlashAttention-4, cuDNN |
+| arXiv | 2603.26266 | GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval | 2026-03-30 | Preprint | - |
+| arXiv | 2603.26499 | AIRA_2: Overcoming Bottlenecks in AI Research Agents | 2026-03-30 | Preprint | - |
+| arXiv | 2603.26512 | CADSmith: Multi-Agent CAD Generation with Programmatic Geometric Validation | 2026-03-30 | Preprint | - |
+| arXiv | 2603.28959 | Multi-Agent LLMs for Adaptive Acquisition in Bayesian Optimization | 2026-04-01 | Preprint | - |
+| arXiv | 2603.28986 | Mimosa Framework: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning | 2026-04-01 | Preprint | MCP, ScienceAgentBench |
+| arXiv | 2603.28990 | Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures | 2026-04-01 | Preprint | - |
+| arXiv | 2603.29010 | Improving Efficiency of GPU Kernel Optimization Agents using a Domain-Specific Language and Speed-of-Light Guidance | 2026-04-01 | Preprint | CUTLASS, KernelBench |
+| arXiv | 2603.29023 | Human-Like Lifelong Memory: A Neuroscience-Grounded Architecture for Infinite Interaction | 2026-04-01 | Preprint | Complementary learning systems, Beck's cognitive model |
+| arXiv | 2604.00067 | Temporal Memory for Resource-Constrained Agents: Continual Learning via Stochastic Compress-Add-Smooth | 2026-04-02 | Preprint | Complementary learning systems, Bridge Diffusion |
+| arXiv | 2604.00076 | Learning to Play Blackjack: A Curriculum Learning Perspective | 2026-04-02 | Preprint | Curriculum learning, Deep Q-Network (DQN) |
+| arXiv | 2604.00066 | Evolution Strategies for Deep RL pretraining | 2026-04-02 | Preprint | Deep Reinforcement Learning (DRL), Evolution Strategies (ES) |
+| arXiv | 2604.00356 | Signals: Trajectory Sampling and Triage for Agentic Interactions | 2026-04-02 | Preprint | τ-bench, Tool-augmented agents |
+| arXiv | 2604.00137 | Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents | 2026-04-02 | Preprint | Tool-integrated LLMs, Model Context Protocol |
+| arXiv | 2604.00085 | One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction | 2026-04-02 | Preprint | Multi-agent deliberation, MIMIC-IV dataset |
+| arXiv | 2604.00005 | How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study | 2026-04-02 | Preprint | Emotion steering, Representation-level intervention |
 
 ---
 
