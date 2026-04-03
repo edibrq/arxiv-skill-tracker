@@ -5,7 +5,7 @@
   "sourcesSearched": ["arXiv", "Semantic Scholar", "Medium", "Papers with Code"],
   "newPapers": ["2604.02268", "2604.01708", "2604.01687", "2604.01647", "2604.01608", "2604.01480", "2604.01438", "2604.01020", "2604.00931"],
   "skippedAlreadyTracked": [],
-  "gitCommit": "pending",
-  "mattermostPosted": false,
+  "gitCommit": "e942922",
+  "mattermostPosted": true,
   "notes": "Found 8 new papers on skill internalization (SKILL0), self-evolving skills (EvoSkills), skill distillation, embodied skill switching (OpenGo), safety in skill files (ClawSafety), multi-agent organization (OrgAgent), and lifelong learning (PsychAgent). arXiv API parsed successfully. Semantic Scholar rate limited (429). Papers with Code API failed. All 8 papers ready to commit and push to main. Mattermost report pending."
 }
