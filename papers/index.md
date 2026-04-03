@@ -29,6 +29,15 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2604.00137 | Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents | 2026-04-02 | Preprint | Tool-integrated LLMs, Model Context Protocol |
 | arXiv | 2604.00085 | One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction | 2026-04-02 | Preprint | Multi-agent deliberation, MIMIC-IV dataset |
 | arXiv | 2604.00005 | How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study | 2026-04-02 | Preprint | Emotion steering, Representation-level intervention |
+| arXiv | 2604.02268 | SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization | 2026-04-03 | Preprint | - |
+| arXiv | 2604.01708 | OpenGo: An OpenClaw-Based Robotic Dog with Real-Time Skill Switching | 2026-04-03 | Preprint | OpenClaw, Unitree Go2 |
+| arXiv | 2604.01687 | EvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification | 2026-04-03 | Preprint | SkillsBench |
+| arXiv | 2604.01647 | Exploring Robust Multi-Agent Workflows for Environmental Data Management | 2026-04-03 | Preprint | - |
+| arXiv | 2604.01608 | From Multi-Agent to Single-Agent: When Is Skill Distillation Beneficial? | 2026-04-03 | Preprint | - |
+| arXiv | 2604.01480 | A Self-Evolving Agentic Framework for Metasurface Inverse Design | 2026-04-03 | Preprint | - |
+| arXiv | 2604.01438 | ClawSafety: "Safe" LLMs, Unsafe Agents | 2026-04-03 | Preprint | OpenClaw |
+| arXiv | 2604.01020 | OrgAgent: Organize Your Multi-Agent System like a Company | 2026-04-03 | Preprint | - |
+| arXiv | 2604.00931 | PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor | 2026-04-03 | Preprint | - |
 
 ---
 
