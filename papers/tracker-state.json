@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-04-03T13:00:00+08:00",
-  "lastRunDate": "2026-04-03",
-  "papersFoundToday": 8,
+  "lastRun": "2026-04-04T13:00:00+08:00",
+  "lastRunDate": "2026-04-04",
+  "papersFoundToday": 3,
   "sourcesSearched": ["arXiv", "Semantic Scholar", "Medium", "Papers with Code"],
-  "newPapers": ["2604.02268", "2604.01708", "2604.01687", "2604.01647", "2604.01608", "2604.01480", "2604.01438", "2604.01020", "2604.00931"],
+  "newPapers": ["2604.02280", "2604.02279", "2604.02315"],
   "skippedAlreadyTracked": [],
-  "gitCommit": "e942922",
+  "gitCommit": "4040b52",
   "mattermostPosted": true,
-  "notes": "Found 8 new papers on skill internalization (SKILL0), self-evolving skills (EvoSkills), skill distillation, embodied skill switching (OpenGo), safety in skill files (ClawSafety), multi-agent organization (OrgAgent), and lifelong learning (PsychAgent). arXiv API parsed successfully. Semantic Scholar rate limited (429). Papers with Code API failed. All 8 papers ready to commit and push to main. Mattermost report pending."
+  "notes": "Found 3 new papers on memory forgetting for autonomous agents (2604.02280), agentic architecture for asset management (2604.02279), and LLM interaction awareness (2604.02315). arXiv search successful. Semantic Scholar, Medium, and Papers with Code searches limited due to API constraints. All 3 papers committed and pushed to main. Mattermost report pending."
 }
