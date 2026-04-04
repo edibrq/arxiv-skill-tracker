@@ -38,6 +38,9 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2604.01438 | ClawSafety: "Safe" LLMs, Unsafe Agents | 2026-04-03 | Preprint | OpenClaw |
 | arXiv | 2604.01020 | OrgAgent: Organize Your Multi-Agent System like a Company | 2026-04-03 | Preprint | - |
 | arXiv | 2604.00931 | PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor | 2026-04-03 | Preprint | - |
+| arXiv | 2604.02280 | Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency | 2026-04-04 | Preprint | LOCOMO, LOCCO, MultiWOZ |
+| arXiv | 2604.02279 | The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management | 2026-04-04 | Preprint | Multi-agent systems, Self-improving agents |
+| arXiv | 2604.02315 | Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models | 2026-04-04 | Preprint | Qwen3.5, GSM8K |
 
 ---
 
