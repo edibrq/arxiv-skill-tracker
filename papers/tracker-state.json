@@ -5,7 +5,7 @@
   "sourcesSearched": ["arXiv", "Semantic Scholar", "Medium", "Papers with Code"],
   "newPapers": [],
   "skippedAlreadyTracked": "all results from 2026-04-02 already in index",
-  "gitCommit": "pending",
-  "mattermostPosted": false,
-  "notes": "No new papers found for 2026-04-05. Weekend effect - arXiv typically doesn't process submissions on Sundays. All API results were from April 2nd and already tracked. Secondary sources (Semantic Scholar, Medium, Papers with Code) unavailable due to rate limiting/access restrictions."
+  "gitCommit": "bbe9a95",
+  "mattermostPosted": true,
+  "notes": "No new papers found for 2026-04-05. Weekend effect - arXiv typically doesn't process submissions on Sundays. All API results were from April 2nd and already tracked. Secondary sources (Semantic Scholar, Medium, Papers with Code) unavailable due to rate limiting/access restrictions. Daily report file created and Mattermost report posted."
 }
