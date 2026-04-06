@@ -41,6 +41,13 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2604.02280 | Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency | 2026-04-04 | Preprint | LOCOMO, LOCCO, MultiWOZ |
 | arXiv | 2604.02279 | The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management | 2026-04-04 | Preprint | Multi-agent systems, Self-improving agents |
 | arXiv | 2604.02315 | Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models | 2026-04-04 | Preprint | Qwen3.5, GSM8K |
+| arXiv | 2604.03201 | Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT) | 2026-04-06 | Preprint | - |
+| arXiv | 2604.03189 | Reflective Context Learning: Studying the Optimization Primitives of Context Space | 2026-04-06 | Preprint | - |
+| arXiv | 2604.03173 | Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents | 2026-04-06 | Preprint | urlhealth tool |
+| arXiv | 2604.03159 | BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation | 2026-04-06 | Preprint | clibib tool |
+| arXiv | 2604.02988 | Self-Optimizing Multi-Agent Systems for Deep Research | 2026-04-06 | Preprint | - |
+| arXiv | 2604.02972 | Self-Guide: Self-Generated Internal Reward for Language Agents | 2026-04-06 | Preprint | - |
+| Medium | hermesclaw-openshell-i-ran-a-40-tool-ai-agent-in-a-sandbox-it-cant-escape-1e432fc1d2c6 | HermesClaw + OpenShell — I Ran a 40-Tool AI Agent in a Sandbox It Can't Escape | 2026-04-06 | Article | OpenClaw, OpenShell |
 
 ---
 
