@@ -1,11 +1,27 @@
 {
-  "lastRun": "2026-04-08T13:03:00+08:00",
-  "lastRunDate": "2026-04-08",
-  "papersFoundToday": 0,
+  "lastRun": "2026-04-09T13:00:00+08:00",
+  "lastRunDate": "2026-04-09",
+  "papersFoundToday": 15,
   "sourcesSearched": ["arXiv", "Semantic Scholar", "Medium", "Papers with Code"],
-  "newPapers": [],
+  "newPapers": [
+    "2604.07341",
+    "2604.07277",
+    "2604.07269",
+    "2604.07165",
+    "2604.07144",
+    "2604.07065",
+    "2604.07041",
+    "2604.07039",
+    "2604.07036",
+    "2604.07016",
+    "2604.07007",
+    "2604.06949",
+    "2604.06943",
+    "2604.06906",
+    "2604.06811"
+  ],
   "skippedAlreadyTracked": "0",
-  "gitCommit": "skipped-no-new-papers",
-  "mattermostPosted": false,
-  "notes": "No new papers found for 2026-04-08. arXiv search returned only papers from 2026-04-07 (latest: 2604.06132). Semantic Scholar API rate limited (429). Medium and Papers with Code fetch failed (network errors). Daily file created documenting empty results. No git commit or Mattermost post needed."
+  "gitCommit": "46e1756",
+  "mattermostPosted": true,
+  "notes": "Found 15 new papers from 2026-04-08 (published yesterday, tracked today). All papers added to papers/2026-04-09.md and index.md. Committed and pushed to main branch. Mattermost report posted to #papers-reports."
 }
