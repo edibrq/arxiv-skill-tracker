@@ -48,6 +48,21 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2604.02988 | Self-Optimizing Multi-Agent Systems for Deep Research | 2026-04-06 | Preprint | - |
 | arXiv | 2604.02972 | Self-Guide: Self-Generated Internal Reward for Language Agents | 2026-04-06 | Preprint | - |
 | Medium | hermesclaw-openshell-i-ran-a-40-tool-ai-agent-in-a-sandbox-it-cant-escape-1e432fc1d2c6 | HermesClaw + OpenShell — I Ran a 40-Tool AI Agent in a Sandbox It Can't Escape | 2026-04-06 | Article | OpenClaw, OpenShell |
+| arXiv | 2604.07341 | ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories | 2026-04-09 | Preprint | - |
+| arXiv | 2604.07277 | Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions | 2026-04-09 | Preprint | - |
+| arXiv | 2604.07269 | Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent | 2026-04-09 | Preprint | - |
+| arXiv | 2604.07165 | Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization | 2026-04-09 | Preprint | - |
+| arXiv | 2604.07144 | Autopoiesis: A Self-Evolving System Paradigm for LLM Serving Under Runtime Dynamics | 2026-04-09 | Preprint | - |
+| arXiv | 2604.07065 | Trust-as-a-Service: Task-Specific Orchestration for Effective Task Completion via Model Context Protocol-Aided Agentic AI | 2026-04-09 | Preprint | MCP |
+| arXiv | 2604.07041 | AV-SQL: Decomposing Complex Text-to-SQL Queries with Agentic Views | 2026-04-09 | Preprint | - |
+| arXiv | 2604.07039 | AEROS: A Single-Agent Operating Architecture with Embodied Capability Modules | 2026-04-09 | Preprint | - |
+| arXiv | 2604.07036 | ReDAct: Uncertainty-Aware Deferral for LLM Agents | 2026-04-09 | Preprint | - |
+| arXiv | 2604.07016 | Predictive Representations for Skill Transfer in Reinforcement Learning | 2026-04-09 | Preprint | - |
+| arXiv | 2604.07007 | AgentCity: Constitutional Governance for Autonomous Agent Economies via Separation of Power | 2026-04-09 | Preprint | - |
+| arXiv | 2604.06949 | Learning-Based Strategy for Composite Robot Assembly Skill Adaptation | 2026-04-09 | Preprint | - |
+| arXiv | 2604.06943 | Sustainable Transfer Learning for Adaptive Robot Skills | 2026-04-09 | Preprint | - |
+| arXiv | 2604.06906 | The AI Skills Shift: Mapping Skill Obsolescence, Emergence, and Transition Pathways in the LLM Era | 2026-04-09 | Preprint | - |
+| arXiv | 2604.06811 | SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems | 2026-04-09 | Preprint | - |
 
 ---
 
