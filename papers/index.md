@@ -63,6 +63,12 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2604.06943 | Sustainable Transfer Learning for Adaptive Robot Skills | 2026-04-09 | Preprint | - |
 | arXiv | 2604.06906 | The AI Skills Shift: Mapping Skill Obsolescence, Emergence, and Transition Pathways in the LLM Era | 2026-04-09 | Preprint | - |
 | arXiv | 2604.06811 | SkillTrojan: Backdoor Attacks on Skill-Based Agent Systems | 2026-04-09 | Preprint | - |
+| arXiv | 2604.08377 | SkillClaw: Let Skills Evolve Collectively with Agentic Evolver | 2026-04-10 | Preprint | OpenClaw, WildClawBench |
+| arXiv | 2604.08545 | Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models | 2026-04-10 | Preprint | HDPO, Metis |
+| arXiv | 2604.08477 | SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions | 2026-04-10 | Preprint | RLVR, Qwen3.5, BBEH, Zebralogic, MMLU-Pro |
+| arXiv | 2604.08226 | Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework | 2026-04-10 | Preprint | Clinical World Model, Clinical AI Skill-Mix |
+| arXiv | 2604.08355 | ASPECT: Analogical Semantic Policy Execution via Language Conditioned Transfer | 2026-04-10 | Preprint | VAE, LLM, zero-shot transfer |
+| arXiv | 2604.08516 | MolmoWeb: Open Visual Web Agent and Open Data for the Open Web | 2026-04-10 | Preprint | MolmoWebMix, WebVoyager, Online-Mind2Web, DeepShop |
 
 ---
 
