@@ -69,6 +69,12 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2604.08226 | Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework | 2026-04-10 | Preprint | Clinical World Model, Clinical AI Skill-Mix |
 | arXiv | 2604.08355 | ASPECT: Analogical Semantic Policy Execution via Language Conditioned Transfer | 2026-04-10 | Preprint | VAE, LLM, zero-shot transfer |
 | arXiv | 2604.08516 | MolmoWeb: Open Visual Web Agent and Open Data for the Open Web | 2026-04-10 | Preprint | MolmoWebMix, WebVoyager, Online-Mind2Web, DeepShop |
+| Medium | a-rag-give-the-model-search-tools-and-let-it-retrieve-its-own-answers-33e8cb27e9d1 | A-RAG: Give the Model Search Tools and Let It Retrieve Its Own Answers | 2026-04-12 | Article | - |
+| Medium | a-civic-hippocratic-oath-for-u-s-agentic-ai-the-six-rings-zero-acceleration-code-c4971c0af18f | A Civic Hippocratic Oath for U.S. Agentic AI — The Six Rings Zero Acceleration Code | 2026-04-12 | Article | - |
+| Medium | why-everyone-is-talking-about-ai-workflows-in-2026-not-just-chatgpt-vs-claude-1468ceaf6f7d | Why Everyone Is Talking About AI Workflows in 2026 (Not Just ChatGPT vs Claude) | 2026-04-12 | Article | - |
+| Medium | chat2find-publishes-255m-token-sri-lankan-trilingual-ai-corpus-on-hugging-face-and-lankadata-1e17c99a588c | Chat2Find Publishes 255M+ Token Sri Lankan Trilingual AI Corpus on Hugging Face and LankaData | 2026-04-12 | Article | - |
+| Medium | technical-setup-of-reasoning-over-recall-1b26e6bab872 | Technical Setup of "Reasoning Over Recall" | 2026-04-12 | Article | - |
+| Medium | llm-internals-series-bbcadfd3b67c | LLM Internals Series | 2026-04-12 | Article | - |
 
 ---
 
