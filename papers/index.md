@@ -75,6 +75,9 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | Medium | chat2find-publishes-255m-token-sri-lankan-trilingual-ai-corpus-on-hugging-face-and-lankadata-1e17c99a588c | Chat2Find Publishes 255M+ Token Sri Lankan Trilingual AI Corpus on Hugging Face and LankaData | 2026-04-12 | Article | - |
 | Medium | technical-setup-of-reasoning-over-recall-1b26e6bab872 | Technical Setup of "Reasoning Over Recall" | 2026-04-12 | Article | - |
 | Medium | llm-internals-series-bbcadfd3b67c | LLM Internals Series | 2026-04-12 | Article | - |
+| arXiv | 2604.08601 | OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains | 2026-04-13 | Preprint | - |
+| arXiv | 2604.08756 | Artifacts as Memory Beyond the Agent Boundary | 2026-04-13 | Preprint | Reinforcement Learning, External memory |
+| arXiv | 2604.08988 | SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment | 2026-04-13 | Preprint | Self-Evolving Agent (SEA) paradigm |
 
 ---
 
