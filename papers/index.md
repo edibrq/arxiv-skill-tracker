@@ -78,6 +78,10 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2604.08601 | OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains | 2026-04-13 | Preprint | - |
 | arXiv | 2604.08756 | Artifacts as Memory Beyond the Agent Boundary | 2026-04-13 | Preprint | Reinforcement Learning, External memory |
 | arXiv | 2604.08988 | SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment | 2026-04-13 | Preprint | Self-Evolving Agent (SEA) paradigm |
+| arXiv | 2604.10846 | PFAgent: A Tractable and Self-Evolving Power-Flow Agent for Interactive Grid Analysis | 2026-04-14 | Preprint | - |
+| arXiv | 2604.10923 | Mem²Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation | 2026-04-14 | Preprint | - |
+| arXiv | 2604.11548 | SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering | 2026-04-14 | Preprint | OpenClaw |
+| arXiv | 2604.11610 | Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks | 2026-04-14 | Preprint | - |
 
 ---
 
