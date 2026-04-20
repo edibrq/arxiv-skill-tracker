@@ -82,6 +82,9 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2604.10923 | Mem²Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation | 2026-04-14 | Preprint | - |
 | arXiv | 2604.11548 | SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering | 2026-04-14 | Preprint | OpenClaw |
 | arXiv | 2604.11610 | Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks | 2026-04-14 | Preprint | - |
+| arXiv | 2604.15709 | Bilevel Optimization of Agent Skills via Monte Carlo Tree Search | 2026-04-20 | Preprint | MCTS, Skill optimization |
+| arXiv | 2604.15877 | Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents | 2026-04-20 | Preprint | Memory systems, Skill discovery, 22 papers analyzed |
+| arXiv | 2604.16022 | SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems | 2026-04-20 | Preprint | Among Us, Planning Oracle, Elo ratings |
 
 ---
 
