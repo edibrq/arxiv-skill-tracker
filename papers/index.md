@@ -85,6 +85,9 @@ Tracked papers and articles from multiple sources. Check this before adding new 
 | arXiv | 2604.15709 | Bilevel Optimization of Agent Skills via Monte Carlo Tree Search | 2026-04-20 | Preprint | MCTS, Skill optimization |
 | arXiv | 2604.15877 | Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents | 2026-04-20 | Preprint | Memory systems, Skill discovery, 22 papers analyzed |
 | arXiv | 2604.16022 | SocialGrid: A Benchmark for Planning and Social Reasoning in Embodied Multi-Agent Systems | 2026-04-20 | Preprint | Among Us, Planning Oracle, Elo ratings |
+| arXiv | 2604.17708 | Co-evolving Agent Architectures and Interpretable Reasoning for Automated Optimization | 2026-04-21 | Preprint | Agent architectures, interpretable reasoning, co-evolution |
+| arXiv | 2604.18131 | Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration | 2026-04-21 | Preprint | Self-evolving agents, meta-learning, World Knowledge, WebVoyager, WebWalker |
+| arXiv | 2604.18543 | ClawEnvKit: Automatic Environment Generation for Claw-Like Agents | 2026-04-21 | Preprint | OpenClaw, harness engineering, Auto-ClawEval, environment generation |
 
 ---
 
